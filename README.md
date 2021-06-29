@@ -33,4 +33,4 @@
 33. [C# ](https://udemy.com/course/create-windows-forms-applications-with-c-and-visual-studio/?ranMID=39197&ranEAID=F*7yG*GrdwE&ranSiteID=F.7yG.GrdwE-WUErPk10oImu1cMkeisqsg&LSNPUBID=F*7yG*GrdwE&utm_source=aff-campaign&utm_medium=udemyads&couponCode=5C62C9275FC3F734ED35)
 34. [DATA ANALYSIS: EXCEL, POWER BI, PYTHON, TABLEAU ](https://udemy.com/course/data-analysis-visualization-python-excel-bi-tableau/?ranMID=39197&ranEAID=F*7yG*GrdwE&ranSiteID=F.7yG.GrdwE-a73eU__G2SiNjxMkwGn6ng&LSNPUBID=F*7yG*GrdwE&utm_source=aff-campaign&utm_medium=udemyads&couponCode=93D73429C0051356EB42)
 35. [HTML ](https://udemy.com/course/its-not-magic-its-html5-a-course-for-complete-beginners/?couponCode=LEARN_HTML5)
-36. [BIGQUERY FOR DATA ANALYSIS ](https://t.co/4pTfg1vcQg?amp=1
+36. [BIGQUERY FOR DATA ANALYSIS ](https://t.co/4pTfg1vcQg?amp=1)
